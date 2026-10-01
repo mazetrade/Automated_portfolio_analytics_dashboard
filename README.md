@@ -2,7 +2,7 @@
 
 An interactive dashboard that analyzes any stock portfolio in seconds: performance, risk, factor exposures, and attribution. Enter tickers and weights, and the app downloads market data, computes institutional-grade analytics, and benchmarks the portfolio against an index.
 
-**🔗 Live demo: [YOUR-APP-LINK](YOUR-APP-LINK)**
+**🔗 Live demo: [YOUR-APP-LINK](https://portfolio-analysis-investments.streamlit.app/)**
 
 Built with Python, Streamlit, Plotly, pandas, statsmodels, and yfinance.
 
